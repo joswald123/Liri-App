@@ -55,3 +55,15 @@ https://ibb.co/0VbGkQr
 ----------------------------------------------------------------------------------------------------------------------------------------------
 4.There is also a random function. This functions uses a series of math functions to give you a random number of the three choices above.
 It calls a random movie, artist, etc from the random.txt file to get information. 
+
+Image of code in action
+https://ibb.co/3mmW04B
+https://ibb.co/rmxcgtQ
+https://ibb.co/BZLGxjP
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+5.  There is one last function that apends all the user responses to the file log.txt with fs require.
+
+https://ibb.co/QjsKLbH
