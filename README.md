@@ -66,4 +66,5 @@ https://ibb.co/BZLGxjP
 
 5.  There is one last function that apends all the user responses to the file log.txt with fs require.
 
+Image of code in action
 https://ibb.co/QjsKLbH
