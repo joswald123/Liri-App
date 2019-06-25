@@ -16,7 +16,7 @@ Link for the song on Spotify
 Album Name
 
 Image of code in action
-https://ibb.co/vY5zgrk
+![ScreenShot](https://ibb.co/vY5zgrk)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 2. Bands in Town Api request: 
