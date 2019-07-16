@@ -16,7 +16,8 @@ Link for the song on Spotify
 Album Name
 
 Image of code in action
-<img src="https://i.ibb.co/Yjd3Bgp/concert-this.png">
+
+![](images/spotify-process.PNG)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 2. Bands in Town Api request: 
@@ -29,7 +30,7 @@ Time it plays at the Venues
 
 
 Image of code in action
-https://ibb.co/3hF7mKB
+![](images/concert-this.PNG)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
@@ -47,8 +48,10 @@ list of main actors
 
 
 Image of code in action
-https://ibb.co/XZymR47
-https://ibb.co/0VbGkQr
+
+![](images/getarasndom-movie.PNG)
+
+![](https://github.com/joswald123/liri-app-homework/blob/master/images/movie%20by%20default%20api.PNG)
 
 
 
@@ -57,9 +60,10 @@ https://ibb.co/0VbGkQr
 It calls a random movie, artist, etc from the random.txt file to get information. 
 
 Image of code in action
-https://ibb.co/3mmW04B
-https://ibb.co/rmxcgtQ
-https://ibb.co/BZLGxjP
+
+![](images/getarasndom-movie.PNG)
+![](images/getarasndom-concerts.PNG)
+![](images/getarasndom-Spotify.PNG)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
@@ -67,4 +71,5 @@ https://ibb.co/BZLGxjP
 5.  There is one last function that apends all the user responses to the file log.txt with fs require.
 
 Image of code in action
-https://ibb.co/QjsKLbH
+
+![](images/log-text-file.PNG)
